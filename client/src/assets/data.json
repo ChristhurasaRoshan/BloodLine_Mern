@@ -1,0 +1,79 @@
+{
+    "Provinces": [
+        {
+            "Province": "Northern",
+            "districts": [
+                "Jaffna",
+                "Kilinochchi",
+                "East Godavari",
+                "Mannar",
+                "Mullaitivu",
+                "Vavuniya"
+                
+            ]
+        },
+        {
+            "Province": "North Western",
+            "districts": [
+                "TPuttalam",
+                "Kurunegala"
+            ]
+        },
+        {
+            "Province": "Western",
+            "districts": [
+                "Gampaha",
+                "Colombo",
+                "Kalutara"
+            ]
+        },
+        {
+            "Province": "North Central",
+            "districts": [
+                "Anuradhapura",
+                "Polonnaruwa"
+            ]
+        },
+        
+        {
+            "Province": "Central",
+            "districts": [
+                "Matale",
+                "Kandy",
+                "Nuwara Eliya"
+            ]
+        },
+        
+        {
+            "Province": "Sabaragamuwa",
+            "districts": [
+                "Kegalle",
+                "Ratnapura"
+            ]
+        },
+        {
+            "Province": "Eastern",
+            "districts": [
+                "Trincomalee",
+                "Batticaloa",
+                "Ampara"
+            ]
+        },
+        {
+            "Province": "Uva",
+            "districts": [
+                "Badulla",
+                "Monaragala"
+            ]
+        },
+        {
+            "Province": "Southern",
+            "districts": [
+                "Hambantota",
+                "Matara",
+                "Galle"
+            ]
+        }
+       
+    ]
+}
